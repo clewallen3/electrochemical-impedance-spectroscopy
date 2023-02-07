@@ -1,1 +1,3 @@
-This code is a test of the readme file
+Code in development for electrochemical impedance spectroscopy measurments of epithelia
+
+This software package is currently setup to communicate directly with the Digilent Analog Discovery 2 SDK
